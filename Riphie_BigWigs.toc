@@ -1,0 +1,8 @@
+## Interface: 100100
+
+## Title: Riphie BigWigs
+## Author: Riphie
+## RequiredDeps: BigWigs
+
+config.lua
+core.lua
