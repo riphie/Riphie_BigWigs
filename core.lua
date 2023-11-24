@@ -6,8 +6,6 @@ if not BigWigsAPI then
   return
 end
 
-local floor = floor
-
 local backdrop = {
   bgFile = "Interface\\ChatFrame\\ChatFrameBackground",
   edgeFile = "Interface\\ChatFrame\\ChatFrameBackground",
