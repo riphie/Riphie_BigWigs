@@ -3,6 +3,7 @@
 ## Title: Riphie BigWigs
 ## Author: Riphie
 ## RequiredDeps: BigWigs
+## Category-enUS: Riphie
 ## IconTexture: Interface\AddOns\Riphie_BigWigs\media\monkey.tga
 
 config.lua
